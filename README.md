@@ -1,7 +1,7 @@
 ![img](https://user-images.githubusercontent.com/79133032/111031287-11035280-8407-11eb-81e1-6a7e408bb323.jpg)
 ### Hi there 👋 I'm George
 
-Currently, i work as a Junior Software Developer at PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower as a Junior Software Developer.
+Currently, i work as a Junior Software Developer at PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower.
 
 - Languages: HTML5, CSS3, JS
 - Frameworks: Bootstrap,  React
