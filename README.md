@@ -21,7 +21,6 @@ Currently, i work as a Junior Software Developer at PMT, the largest mass transi
 
 
 ### Recent Articles
-- [Notes On JavaScript Objects](https://georgeedozy.hashnode.dev/javascript-objects-excerises-answers)
-- [Notes On JavaScript Arrays](https://georgeedozy.hashnode.dev/javascript-exercises-array-answers)
+- [Software Development Practice: Agile Methodology](https://medium.com/@georgeedozy/software-development-practice-agile-methodology-e7c3d26e8b44)
 - [Relationship between a Software Developer and a Product Manager](https://medium.com/@georgeedozy/relationship-between-a-software-developer-and-a-product-manager-39329739fe05)
 - [SDLC (Software Development Life Cycle) for a Transport and Travel System](https://medium.com/@georgeedozy/the-sdlc-software-development-life-cycle-for-a-transport-and-travel-system-78057b00dabc)
