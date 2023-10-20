@@ -17,7 +17,7 @@ Currently, i work as a Junior Software Developer at PMT, the largest mass transi
 - 💬 Ask me about taking an idea and building a complete product
 - 📫 How to reach me: [Twitter](https://twitter.com/GeorgeEdozy) or [LinkedIn](https://www.linkedin.com/in/george-edozy/)
 - 😄 Pronouns: He / Him 
-- 💻 I specialize in converting creative ideas into effective business solutions, helping companies reach their highest potential.
+- 💻 I specialize in converting your creative ideas into effective business solutions, helping you reach your highest potential.
 
 
 ### Recent Articles
