@@ -1,23 +1,25 @@
 ![img](https://user-images.githubusercontent.com/79133032/111031287-11035280-8407-11eb-81e1-6a7e408bb323.jpg)
-### Hi there 👋 I'm George
+### Hi there 👋 I'm George Edozie
 
-Currently, i work as a Junior Software Developer at PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower.
+I specialize in converting your creative ideas into effective business solutions, helping you reach your highest potential. With a solid grounding in Computer Science and an unswerving dedication to lifelong education, my aim is to bring about positive transformation in the world through technology.
 
-- Languages: HTML5, CSS3, JS
-- Frameworks: Bootstrap,  React
-- Tools: Git
+Currently, I work as a Junior Software Developer at PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower.
 
+For a deeper insight into my work and experience, please explore my portfolio at https://georgeedozie.netlify.app/.
+
+Let's connect and explore how we can collaborate to drive meaningful change together.
+
+- Languages: HTML5, CSS3, JS, MERN Stack, Git
 
 ### Summary
 
 - 📚 George's blogs: [Dev.to](https://dev.to/georgedredd) | [Hashnode.dev](https://hashnode.com/@Edozy) | [Medium.com](https://medium.com/@georgeedozy)
 - 🔭 I’m currently working at [PMT.ng](https://pmt.ng/) as a Junior Software Developer
-- 🌱 I’m currently learning: Front end Web Development
+- 🌱 I’m currently learning: Backend Web Development
 - 👯 I’m looking to collaborate on any exciting challenge
 - 💬 Ask me about taking an idea and building a complete product
 - 📫 How to reach me: [Twitter](https://twitter.com/GeorgeEdozy) or [LinkedIn](https://www.linkedin.com/in/george-edozy/)
 - 😄 Pronouns: He / Him 
-- 💻 I specialize in converting your creative ideas into effective business solutions, helping you reach your highest potential.
 
 
 ### Recent Articles
