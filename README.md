@@ -9,7 +9,7 @@ For a deeper insight into my work and experience, please explore my portfolio at
 
 Let's connect and explore how we can collaborate to drive meaningful change together.
 
-- Languages: HTML5, CSS3, JS, MERN Stack, Git
+- Languages: HTML5, CSS3, JS, Git, Python, Automation & AI tools, API & Micro-SaaS Builder
 
 ### Summary
 
