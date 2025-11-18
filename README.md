@@ -1,4 +1,6 @@
 ![img](https://user-images.githubusercontent.com/79133032/111031287-11035280-8407-11eb-81e1-6a7e408bb323.jpg)
+### Python Developer | Automation & AI tools | API & Micro-SaaS Builder
+
 ### Hi there 👋 I'm George Edozie
 
 I specialize in converting your creative ideas into effective business solutions, helping you reach your highest potential. With a solid grounding in Computer Science and an unswerving dedication to lifelong education, my aim is to bring about positive transformation in the world through technology.
