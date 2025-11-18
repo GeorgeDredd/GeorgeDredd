@@ -5,7 +5,7 @@ Hi there 👋 I'm George Edozie
 
 I specialize in converting your creative ideas into effective business solutions, helping you reach your highest potential. With a solid grounding in Computer Science and an unswerving dedication to lifelong education, my aim is to bring about positive transformation in the world through technology.
 
-Currently, I work as a Junior Software Developer at PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower.
+I worked as a Junior Software Developer at PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower.
 
 For a deeper insight into my work and experience, please explore my portfolio at https://georgeedozie.netlify.app/.
 
